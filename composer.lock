@@ -188,16 +188,16 @@
         },
         {
             "name": "lodev09/php-models",
-            "version": "1.1.8",
+            "version": "1.1.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lodev09/php-models.git",
-                "reference": "91ece61cc75d9a64169800b6684a5d10fd54c7f4"
+                "reference": "94e4014d575a32c9571306c2d7f9ecb288b06b8c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lodev09/php-models/zipball/91ece61cc75d9a64169800b6684a5d10fd54c7f4",
-                "reference": "91ece61cc75d9a64169800b6684a5d10fd54c7f4",
+                "url": "https://api.github.com/repos/lodev09/php-models/zipball/94e4014d575a32c9571306c2d7f9ecb288b06b8c",
+                "reference": "94e4014d575a32c9571306c2d7f9ecb288b06b8c",
                 "shasum": ""
             },
             "require": {
@@ -231,7 +231,7 @@
                 "pdo-models",
                 "php"
             ],
-            "time": "2019-05-03T18:27:59+00:00"
+            "time": "2019-05-23T10:59:03+00:00"
         },
         {
             "name": "lodev09/php-ssh2",
@@ -774,16 +774,16 @@
         },
         {
             "name": "php-curl-class/php-curl-class",
-            "version": "8.5.1",
+            "version": "8.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-curl-class/php-curl-class.git",
-                "reference": "ff95a3c56f94f3bb91e5ac6aaa94b27f39d2a2b1"
+                "reference": "73bf10e2652ad2261cbab7fbf242b76f0e7ee359"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-curl-class/php-curl-class/zipball/ff95a3c56f94f3bb91e5ac6aaa94b27f39d2a2b1",
-                "reference": "ff95a3c56f94f3bb91e5ac6aaa94b27f39d2a2b1",
+                "url": "https://api.github.com/repos/php-curl-class/php-curl-class/zipball/73bf10e2652ad2261cbab7fbf242b76f0e7ee359",
+                "reference": "73bf10e2652ad2261cbab7fbf242b76f0e7ee359",
                 "shasum": ""
             },
             "require": {
@@ -837,7 +837,7 @@
                 "web-service",
                 "xml"
             ],
-            "time": "2019-04-20T05:57:47+00:00"
+            "time": "2019-05-12T08:22:01+00:00"
         },
         {
             "name": "phpmailer/phpmailer",
